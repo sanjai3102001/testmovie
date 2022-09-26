@@ -1,2 +1,2 @@
-# testmovie
- this is a test movie repo to get the code coverage
+# movie
+ this is the movie api to be iintegrated with sonarcloud
